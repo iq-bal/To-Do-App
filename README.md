@@ -9,6 +9,9 @@ Simple Todo Application using **SwiftUI**/**Firebase**/**Redux**/**Combine**.
 | ![](docs/images/img12.png) | ![](docs/images/img13.png) | ![](docs/images/img14.png) |                            |
 
 
+Task Page and Create Task page is created by : Bishal Roy (2007098)
+Rest are created by Me: Iqbal Mahamud (2007093)
+
 ## Feature
 
 - Use SwiftUI fully.
