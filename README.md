@@ -67,4 +67,4 @@ open FireTodo.xcworkspace
 
 ## License
 
-**FireTodo** is under MIT license. See the [LICENSE](LICENSE) file for more info.
+**FireTodo** is under MIT license. 
